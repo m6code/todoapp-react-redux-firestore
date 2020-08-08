@@ -1,4 +1,4 @@
-# Todo-App with React, Redux, Firestore (More Here)[https://blog.logrocket.com/getting-started-react-redux-firebase/]
+# Todo-App with React, Redux, Firestore [More Here](https://blog.logrocket.com/getting-started-react-redux-firebase/)
 
 * Dependencies 
     - redux
