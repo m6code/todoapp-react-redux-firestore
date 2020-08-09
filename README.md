@@ -1,12 +1,19 @@
 # Todo-App with React, Redux, Firestore [More Here](https://blog.logrocket.com/getting-started-react-redux-firebase/)
 
 * Dependencies 
-    - redux
-    - react-redux
-    - firebase
-    - react-redux-firebase
-    - redux-firestore
-    - react-router-dom
+  + redux
+  + react-redux
+  + firebase
+  + react-redux-firebase
+  + redux-firestore
+  + react-router-dom
+
+* Components
+  + The `AddTodo` component allows a user to add a new to-do item
+  + The `PrivateRoute` component prevents its child components from being accessed by unauthenticated users
+  + The `TodoItem` component defines the appearance and functionality of each to-do item
+  + The `SignIn` route allows the user to sign in with Google
+  + The `Todos` route displays the list of to-do items for the authenticated user
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
