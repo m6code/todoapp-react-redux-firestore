@@ -9,7 +9,7 @@ const AddTodo = () => {
     const handleChange = ({ currentTarget: { name, value } }) => {
         setPresentTodo(value);
     }
-}
+
 
 const addNewTodo = (todo) => {
     firestore
@@ -43,5 +43,7 @@ return (
         </form>
     </div>
 )
+
+}
 
 export default AddTodo;
